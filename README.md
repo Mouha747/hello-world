@@ -1,2 +1,2 @@
 # hello-world
-dépôt est destiné à la pratique de GitHub Flow.
+Je m'appelle Mouhamed Sow et je m'exerce sur GitHub.
